@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Sheila  
 💻 Desarrollador Full Stack  
-🚀 Apasionada por la tecnología  y la programación
+🚀 Apasionada por la tecnología  y la programación  
 📫 Contáctame en laragarciasheila@gmail.com  
 
 ## 🚀 Tecnologías y herramientas  
