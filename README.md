@@ -4,7 +4,5 @@
 📫 Contáctame en laragarciasheila@gmail.com  
 
 ## 🚀 Tecnologías y herramientas  
-[![](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git)](https://skillicons.dev)  
+[![](https://skillicons.dev/icons?i=html,css,js,php,py)](https://skillicons.dev)  
 
-## 📊 Estadísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula)
